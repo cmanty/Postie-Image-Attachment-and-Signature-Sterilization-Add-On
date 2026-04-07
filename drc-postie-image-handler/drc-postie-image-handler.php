@@ -2,8 +2,8 @@
 /**
  * Plugin Name: DRC Postie Image Handler
  * Description: Processes [PostIMG:] markers in Postie emails, verifies sender authorization, and controls image attachments.
- * Version: 2.0.0
- * Author: DRC
+ * Version: 1.0
+ * Author: Christian Manty
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
